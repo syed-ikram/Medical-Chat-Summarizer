@@ -1,0 +1,7 @@
+{
+    "rouge1": 0.1422,
+    "rouge2": 0.0056,
+    "rougeL": 0.0753,
+    "bleu": 0.0,
+    "num_samples": 925
+}

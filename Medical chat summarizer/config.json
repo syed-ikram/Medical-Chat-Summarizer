@@ -1,0 +1,16 @@
+{
+    "model_name": "google/flan-t5-base",
+    "max_source_length": 512,
+    "max_target_length": 256,
+    "lora_r": 16,
+    "lora_alpha": 32,
+    "learning_rate": 0.0003,
+    "num_epochs": 5,
+    "final_metrics": {
+        "rouge1": 0.1422,
+        "rouge2": 0.0056,
+        "rougeL": 0.0753,
+        "bleu": 0.0,
+        "num_samples": 925
+    }
+}
